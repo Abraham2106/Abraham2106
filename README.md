@@ -29,7 +29,7 @@
 
 ---
 
-<h3>🚀 Projects</h3>
+<h3>🚀 Featured Projects</h3>
 
 <table>
   <thead align="center">
@@ -42,22 +42,22 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/Abraham2106/second-brain"><b>Second Brain</b></a></td>
+      <td>AI Multi-Agent orchestrator for Obsidian — semantic memory & surgical editing via unified diffs</td>
+      <td>Python · Streamlit · SQLite · Docker</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Abraham2106/second-brain?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Abraham2106/gemini-proxy-balancer"><b>Gemini Proxy Balancer</b></a></td>
+      <td>Microservice for API Key rotation & load balancing — high-availability gateway for Gemini AI</td>
+      <td>FastAPI · Python · Docker · Railway</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Abraham2106/gemini-proxy-balancer?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Abraham2106/hermes"><b>Hermes</b></a></td>
-      <td>Automated local deployment pipeline — polls Git every 30s, rebuilds & restarts 3 Docker containers</td>
+      <td>Automated local deployment pipeline — polls Git every 30s, rebuilds & restarts containers</td>
       <td>Docker · Bash · Python · Git</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Abraham2106/hermes?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Abraham2106/minikube-monitor"><b>MiniKube Monitor</b></a></td>
-      <td>Kubernetes observability tool — tracks 5 pod states across 2 microservices with real-time alerts</td>
-      <td>Kubernetes · Python · kubectl · Linux</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Abraham2106/minikube-monitor?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Abraham2106/apolus"><b>Apolus</b></a></td>
-      <td>Network audit toolkit — 4 scripts covering port scanning, interface status, routing & connectivity across 2 VMs</td>
-      <td>Python · Bash · nmap · VirtualBox</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Abraham2106/apolus?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
