@@ -1,14 +1,14 @@
-<h1>Hey, I'm Abraham 👋</h1>
+<h1>Hey, I'm Abraham</h1>
 
 <p>
-  Computer Science student at <b>Tecnológico de Costa Rica</b> 🇨🇷<br/>
+  Computer Science student at <b>Tecnológico de Costa Rica</b><br/>
   Building cloud infrastructure, container orchestration tools, and network utilities.<br/>
   Currently focused on <b>DevOps</b>, <b>Linux</b>, and <b>AWS</b>.
 </p>
 
 ---
 
-<h3>🛠️ Things I work with</h3>
+<h3>Things I work with</h3>
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -24,15 +24,15 @@
 
 ---
 
-<h3>🚀 Featured Projects</h3>
+<h3>Featured Projects</h3>
 
 <table>
   <thead align="center">
     <tr>
-      <td><b>⚙️ Project</b></td>
-      <td><b>📋 Description</b></td>
-      <td><b>🔧 Stack</b></td>
-      <td><b>⭐ Stars</b></td>
+      <td><b>Project</b></td>
+      <td><b>Description</b></td>
+      <td><b>Stack</b></td>
+      <td><b>Stars</b></td>
     </tr>
   </thead>
   <tbody>
@@ -59,7 +59,7 @@
 
 ---
 
-<h3>📊 GitHub Stats</h3>
+<h3>GitHub Stats</h3>
 
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Abraham2106&show_icons=true&theme=dark&hide_border=true&count_private=true" />
@@ -69,11 +69,11 @@
 ---
 
 <h3>🌐 Languages</h3>
-<p>🇨🇷 Spanish (Native) &nbsp;·&nbsp; 🇺🇸 English (B2–C1) &nbsp;·&nbsp; 🇩🇪 German (A2)</p>
+<p>🇨🇷 Spanish (Native) &nbsp;·&nbsp; English (B2–C1) &nbsp;·&nbsp; German (A2)</p>
 
 ---
 
-<h3>📬 Where to find me</h3>
+<h3>Where to find me</h3>
 
 <p>
   <a href="https://github.com/Abraham2106" target="_blank">
