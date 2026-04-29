@@ -23,7 +23,7 @@
 </p>
 
 ---
-
+<!-- 
 <h3>Featured Projects</h3>
 
 <table>
@@ -56,7 +56,7 @@
     </tr>
   </tbody>
 </table>
-
+-->
 ---
 
 <h3>GitHub Stats</h3>
