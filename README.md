@@ -2,14 +2,15 @@
 
 <p>
   Computer Science student at <b>Tecnológico de Costa Rica</b><br/>
-  Building cloud infrastructure, container orchestration tools, and network utilities.<br/>
-  Currently focused on <b>DevOps</b>, <b>Linux</b>, and <b>AWS</b>.
+  Currently interested in LLMs and context compression. Building a progressive
+  project portfolio in ML/AI; from KNN classifiers and regression models to
+  RAG systems and context compression strategies for agents.<br/>
+  Focused on <b>ML/AI</b>, <b>Linux</b>, and <b>Google Cloud</b>.
 </p>
 
 ---
 
 <h3>Things I work with</h3>
-
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
