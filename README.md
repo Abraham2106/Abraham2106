@@ -24,9 +24,7 @@
 </p>
 
 ---
-<!-- 
 <h3>Featured Projects</h3>
-
 <table>
   <thead align="center">
     <tr>
@@ -38,26 +36,14 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Abraham2106/second-brain"><b>Second Brain</b></a></td>
-      <td>AI Multi-Agent orchestrator for Obsidian — semantic memory & surgical editing via unified diffs</td>
-      <td>Python · Streamlit · SQLite · Docker</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Abraham2106/second-brain?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Abraham2106/gemini-proxy-balancer"><b>Gemini Proxy Balancer</b></a></td>
-      <td>Microservice for API Key rotation & load balancing — high-availability gateway for Gemini AI</td>
-      <td>FastAPI · Python · Docker · Railway</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Abraham2106/gemini-proxy-balancer?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Abraham2106/hermes"><b>Hermes</b></a></td>
-      <td>Automated local deployment pipeline — polls Git every 30s, rebuilds & restarts containers</td>
-      <td>Docker · Bash · Python · Git</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Abraham2106/hermes?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Abraham2106/ML_Causal_Path/tree/main/01_KNN_Climas"><b>01 · KNN Climate Classifier</b></a></td>
+      <td>KNN implemented from scratch: a supervised classification of weather conditions with a decision boundary visualization.</td>
+      <td>Python · NumPy · Pandas · Matplotlib · scikit-learn</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Abraham2106/ML_Causal_Path?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
--->
+
 ---
 
 <h3>GitHub Stats</h3>
