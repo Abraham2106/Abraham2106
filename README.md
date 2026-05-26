@@ -41,6 +41,18 @@
       <td>Python · NumPy · Pandas · Matplotlib · scikit-learn</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Abraham2106/ML_Causal_Path?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Abraham2106/AI_Support_Triage#private-repo"><b>02 · AI Support Triage System</b></a></td>
+      <td>Automated classification of operational support tickets using AI, learning from recurring error patterns to proactively propose technical improvements.</td>
+      <td>Python · Gemini API · PyTorch · HBase</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Abraham2106/AI_Support_Triage?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Abraham2106/QC_Bottleneck_Analyzer#private-repo"><b>03 · Quick-Commerce Bottleneck Analyzer</b></a></td>
+      <td>Automated conditional alert system that monitors inventory and dispatch times via SQL queries to prevent delays in quick-commerce environments.</td>
+      <td>Prolog · Oracle · Docker · Linux · REST APIs</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Abraham2106/QC_Bottleneck_Analyzer?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
