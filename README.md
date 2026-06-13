@@ -34,6 +34,7 @@
 ---
 
 ## ⟡ About
+<img align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="180" alt="data gif" /> 
 
 Computer Science engineer-in-training at **Tecnológico de Costa Rica**, focused on building production-grade software at the intersection of **AI/ML systems** and **full stack product engineering**. I design and ship end-to-end systems — from data pipelines and model training to APIs, services, and the interfaces on top of them.
 
