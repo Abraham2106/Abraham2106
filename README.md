@@ -1,32 +1,32 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,0,0&text=Abraham%20Solano%20Parrales&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Software%20%C2%B7%20AI%2FML%20%C2%B7%20Full%20Stack%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:FFFFFF,50:888888,100:111111&text=Abraham%20Solano%20Parrales&fontColor=101010&fontSize=52&fontAlignY=38&desc=Software%20%C2%B7%20AI%2FML%20%C2%B7%20Full%20Stack%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" alt="header" />
 
 <a href="https://github.com/Abraham2106">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=720&lines=Computer+Science+%40+Tecnol%C3%B3gico+de+Costa+Rica;Building+RAG+systems+%26+context+compression;LLMs+%C2%B7+Machine+Learning+%C2%B7+Cloud+Native;Product-minded+full+stack+engineer" alt="typing-svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=900&color=000000&background=00000000&center=true&vCenter=true&width=720&lines=Computer+Science+%40+Tecnol%C3%B3gico+de+Costa+Rica;Building+RAG+systems+%26+context+compression;LLMs+%C2%B7+Machine+Learning+%C2%B7+Cloud+Native;Product-minded+full+stack+engineer" alt="typing-svg" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/B.Sc.%20Computer%20Science-111111?style=for-the-badge&logo=googlescholar&logoColor=white" alt="degree" />
-  <img src="https://img.shields.io/badge/Tecnol%C3%B3gico%20de%20Costa%20Rica-1A1A1A?style=for-the-badge&logo=academia&logoColor=white" alt="university" />
-  <img src="https://img.shields.io/badge/2024%20%E2%80%93%202028-2A2A2A?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="years" />
+  <img src="https://img.shields.io/badge/B.Sc.%20Computer%20Science-000000?style=for-the-badge&logo=googlescholar&logoColor=white" alt="degree" />
+  <img src="https://img.shields.io/badge/Tecnol%C3%B3gico%20de%20Costa%20Rica-000000?style=for-the-badge&logo=academia&logoColor=white" alt="university" />
+  <img src="https://img.shields.io/badge/2024%20%E2%80%93%202028-000000?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="years" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Costa%20Rica-0A0A0A?style=flat-square&labelColor=1A1A1A" alt="location" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Costa%20Rica-000000?style=flat-square&labelColor=222222&color=000000" alt="location" />
 </p>
 
 <p>
-  <a href="https://github.com/Abraham2106"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
-  <a href="https://www.linkedin.com/in/abraham-solano-parrales/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="mailto:solanoabe215@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://github.com/Abraham2106"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+  <a href="https://github.com/Abraham2106"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
+  <a href="https://www.linkedin.com/in/abraham-solano-parrales/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="mailto:solanoabe215@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a href="https://github.com/Abraham2106"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Abraham2106&label=Profile%20Views&color=555555&style=flat-square" alt="profile-views" />
-  <img src="https://img.shields.io/github/followers/Abraham2106?label=Followers&style=flat-square&color=333333&labelColor=111111" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Abraham2106?label=Stars&style=flat-square&color=222222&labelColor=111111" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=Abraham2106&label=Profile%20Views&color=000000&style=flat-square" alt="profile-views" />
+  <img src="https://img.shields.io/github/followers/Abraham2106?label=Followers&style=flat-square&color=000000&labelColor=000000" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Abraham2106?label=Stars&style=flat-square&color=000000&labelColor=000000" alt="stars" />
 </p>
 
 </div>
@@ -78,12 +78,12 @@ My current research and engineering focus is **LLMs, Retrieval-Augmented Generat
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **LLMs & Prompt Engineering** | ![](https://img.shields.io/badge/Advanced-111111?style=flat-square) | Context compression, structured prompting, evaluation harnesses |
-| **Retrieval-Augmented Generation** | ![](https://img.shields.io/badge/Advanced-111111?style=flat-square) | Vector search, chunking strategies, grounding & citation pipelines |
-| **Classical Machine Learning** | ![](https://img.shields.io/badge/Proficient-2A2A2A?style=flat-square) | KNN, regression, classification, decision boundaries, feature engineering |
-| **Deep Learning** | ![](https://img.shields.io/badge/Proficient-2A2A2A?style=flat-square) | PyTorch model training, fine-tuning, inference optimization |
-| **Data Engineering** | ![](https://img.shields.io/badge/Intermediate-444444?style=flat-square) | Pandas/NumPy pipelines, SQL, HBase, batch processing |
-| **MLOps & Deployment** | ![](https://img.shields.io/badge/Intermediate-444444?style=flat-square) | Docker, GCP/AWS deployment, REST inference services |
+| **LLMs & Prompt Engineering** | ![](https://img.shields.io/badge/Advanced-000000?style=flat-square) | Context compression, structured prompting, evaluation harnesses |
+| **Retrieval-Augmented Generation** | ![](https://img.shields.io/badge/Advanced-000000?style=flat-square) | Vector search, chunking strategies, grounding & citation pipelines |
+| **Classical Machine Learning** | ![](https://img.shields.io/badge/Proficient-333333?style=flat-square) | KNN, regression, classification, decision boundaries, feature engineering |
+| **Deep Learning** | ![](https://img.shields.io/badge/Proficient-333333?style=flat-square) | PyTorch model training, fine-tuning, inference optimization |
+| **Data Engineering** | ![](https://img.shields.io/badge/Intermediate-666666?style=flat-square) | Pandas/NumPy pipelines, SQL, HBase, batch processing |
+| **MLOps & Deployment** | ![](https://img.shields.io/badge/Intermediate-666666?style=flat-square) | Docker, GCP/AWS deployment, REST inference services |
 
 </div>
 
@@ -191,19 +191,19 @@ Self-directed engineering track building a progressive ML/AI portfolio while pur
 
 **Amazon Web Services**
 
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-111111?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-000000?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
 
 **Oracle**
 
-<img src="https://img.shields.io/badge/Oracle%20Database%20SQL-0A0A0A?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle" />
+<img src="https://img.shields.io/badge/Oracle%20Database%20SQL-000000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle" />
 
 **NPTEL**
 
-<img src="https://img.shields.io/badge/NPTEL%20Machine%20Learning-1A1A1A?style=for-the-badge&logo=googlescholar&logoColor=white" alt="nptel" />
+<img src="https://img.shields.io/badge/NPTEL%20Machine%20Learning-000000?style=for-the-badge&logo=googlescholar&logoColor=white" alt="nptel" />
 
 **Cisco**
 
-<img src="https://img.shields.io/badge/Cisco%20Networking%20Essentials-2A2A2A?style=for-the-badge&logo=cisco&logoColor=white" alt="cisco" />
+<img src="https://img.shields.io/badge/Cisco%20Networking%20Essentials-000000?style=for-the-badge&logo=cisco&logoColor=white" alt="cisco" />
 
 </div>
 
@@ -213,10 +213,10 @@ Self-directed engineering track building a progressive ML/AI portfolio while pur
 
 <div align="center">
 
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-0A0A0A?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" height="38" /></a>
-<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-111111?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="gfg" height="38" /></a>
-<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-1A1A1A?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank" height="38" /></a>
-<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-2A2A2A?style=for-the-badge&logo=codechef&logoColor=white" alt="codechef" height="38" /></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" height="38" /></a>
+<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="gfg" height="38" /></a>
+<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank" height="38" /></a>
+<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" alt="codechef" height="38" /></a>
 
 </div>
 
@@ -226,10 +226,10 @@ Self-directed engineering track building a progressive ML/AI portfolio while pur
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abraham2106&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=AAAAAA&text_color=CCCCCC&bg_color=0D1117" alt="stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abraham2106&hide_border=true&background=0D1117&stroke=555555&ring=AAAAAA&fire=FFFFFF&currStreakLabel=CCCCCC&sideLabels=CCCCCC&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abraham2106&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC&bg_color=000000" alt="stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abraham2106&hide_border=true&background=000000&stroke=444444&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="streak" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraham2106&layout=compact&hide_border=true&title_color=FFFFFF&text_color=CCCCCC&bg_color=0D1117&langs_count=8" alt="top-langs" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraham2106&layout=compact&hide_border=true&title_color=FFFFFF&text_color=CCCCCC&bg_color=000000&langs_count=8" alt="top-langs" />
 
 </div>
 
@@ -239,7 +239,7 @@ Self-directed engineering track building a progressive ML/AI portfolio while pur
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abraham2106&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Abraham2106&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 
 </div>
 
@@ -249,7 +249,7 @@ Self-directed engineering track building a progressive ML/AI portfolio while pur
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abraham2106&bg_color=0D1117&color=AAAAAA&line=555555&point=FFFFFF&area=true&hide_border=true" alt="activity-graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abraham2106&bg_color=000000&color=FFFFFF&line=444444&point=FFFFFF&area=true&hide_border=true" alt="activity-graph" />
 
 </div>
 
@@ -292,10 +292,10 @@ Abraham:
 
 <div align="center">
 
-<a href="mailto:solanoabe215@gmail.com"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-<a href="https://www.linkedin.com/in/abraham-solano-parrales/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://github.com/Abraham2106"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-<a href="https://github.com/Abraham2106"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
+<a href="mailto:solanoabe215@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="https://www.linkedin.com/in/abraham-solano-parrales/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://github.com/Abraham2106"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+<a href="https://github.com/Abraham2106"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
 
 </div>
 
@@ -305,6 +305,6 @@ Abraham:
 
 <i>"Engineering systems that compress complexity into clarity."</i>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=0,0,0&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:000000,50:888888,100:FFFFFF&section=footer" alt="footer" />
 
 </div>
