@@ -24,7 +24,6 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Abraham2106&label=Profile%20Views&color=000000&style=flat-square" alt="profile-views" />
   <img src="https://img.shields.io/github/followers/Abraham2106?label=Followers&style=flat-square&color=000000&labelColor=000000" alt="followers" />
   <img src="https://img.shields.io/github/stars/Abraham2106?label=Stars&style=flat-square&color=000000&labelColor=000000" alt="stars" />
 </p>
