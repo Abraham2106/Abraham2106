@@ -70,22 +70,7 @@ My current research and engineering focus is **LLMs, Retrieval-Augmented Generat
 
 </div>
 
----
 
-## ⟡ AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| **LLMs & Prompt Engineering** | ![](https://img.shields.io/badge/Advanced-000000?style=flat-square) | Context compression, structured prompting, evaluation harnesses |
-| **Retrieval-Augmented Generation** | ![](https://img.shields.io/badge/Advanced-000000?style=flat-square) | Vector search, chunking strategies, grounding & citation pipelines |
-| **Classical Machine Learning** | ![](https://img.shields.io/badge/Proficient-333333?style=flat-square) | KNN, regression, classification, decision boundaries, feature engineering |
-| **Deep Learning** | ![](https://img.shields.io/badge/Proficient-333333?style=flat-square) | PyTorch model training, fine-tuning, inference optimization |
-| **Data Engineering** | ![](https://img.shields.io/badge/Intermediate-666666?style=flat-square) | Pandas/NumPy pipelines, SQL, HBase, batch processing |
-| **MLOps & Deployment** | ![](https://img.shields.io/badge/Intermediate-666666?style=flat-square) | Docker, GCP/AWS deployment, REST inference services |
-
-</div>
 
 ---
 
@@ -170,80 +155,15 @@ Self-directed engineering track building a progressive ML/AI portfolio while pur
 
 ---
 
-## ⟡ Achievements
-
-<div align="center">
-
-| Recognition | Details |
-| :--- | :--- |
-| 🎓 **CS @ TEC Costa Rica** | Admitted to one of Latin America's top engineering institutions (2024–2028) |
-| 🧠 **Progressive ML Portfolio** | Self-built curriculum spanning KNN → regression → RAG systems |
-| 🌐 **Trilingual** | Spanish (Native) · English (B2–C1) · German (A2) |
-| ⚙️ **Full-Stack AI Builder** | Ships end-to-end systems from model to deployed service |
-
-</div>
-
----
-
 ## ⟡ Certifications
 
 <div align="center">
 
-**Amazon Web Services**
-
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-000000?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
-
-**Oracle**
-
-<img src="https://img.shields.io/badge/Oracle%20Database%20SQL-000000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle" />
-
-**NPTEL**
-
-<img src="https://img.shields.io/badge/NPTEL%20Machine%20Learning-000000?style=for-the-badge&logo=googlescholar&logoColor=white" alt="nptel" />
-
-**Cisco**
-
-<img src="https://img.shields.io/badge/Cisco%20Networking%20Essentials-000000?style=for-the-badge&logo=cisco&logoColor=white" alt="cisco" />
-
 </div>
+
 
 ---
 
-## ⟡ Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" height="38" /></a>
-<a href="https://www.geeksforgeeks.org/"><img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="gfg" height="38" /></a>
-<a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank" height="38" /></a>
-<a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" alt="codechef" height="38" /></a>
-
-</div>
-
----
-
-## ⟡ GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abraham2106&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=CCCCCC&bg_color=000000" alt="stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Abraham2106&hide_border=true&background=000000&stroke=444444&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=CCCCCC&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="streak" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abraham2106&layout=compact&hide_border=true&title_color=FFFFFF&text_color=CCCCCC&bg_color=000000&langs_count=8" alt="top-langs" />
-
-</div>
-
----
-
-## ⟡ GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abraham2106&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
-</div>
-
----
 
 ## ⟡ Contribution Activity
 
@@ -255,38 +175,6 @@ Self-directed engineering track building a progressive ML/AI portfolio while pur
 
 ---
 
-## ⟡ Contribution Snake
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/Abraham2106/Abraham2106/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-
-</div>
-
----
-
-## ⟡ Current Focus
-
-```yaml
-Abraham:
-  learning:
-    - Context compression strategies for LLM agents
-    - Advanced Retrieval-Augmented Generation architectures
-    - Distributed systems on Google Cloud
-  building:
-    - A progressive ML/AI project portfolio
-    - RAG pipelines with grounded, citable outputs
-    - Containerized inference services on Linux
-  exploring:
-    - Agentic workflows & tool-use orchestration
-    - Model evaluation & observability tooling
-  open_to:
-    - Software Engineering / AI-ML internships
-    - Open-source collaboration
-    - Applied ML research
-```
-
----
 
 ## ⟡ Connect
 
@@ -299,11 +187,8 @@ Abraham:
 
 </div>
 
----
 
 <div align="center">
-
-<i>"Engineering systems that compress complexity into clarity."</i>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:000000,50:888888,100:FFFFFF&section=footer" alt="footer" />
 
